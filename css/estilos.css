@@ -1,5 +1,21 @@
 body {
-    color: deeppink;
+    color: goldenrod;
     text-align: center;
     font-family: "Arial";
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+
+}
+
+#container {
+    width: 50%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto; 
+}
+
+.post h1 {
+    font-size: 20px;
 }
