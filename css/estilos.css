@@ -32,6 +32,7 @@ body
     font-size: 0.8em;
 }
 
+
 #container
 {
     width: 70%;
@@ -49,4 +50,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    margin-top: 5rem;
+    padding: 0.5rem;
 }
